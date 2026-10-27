@@ -8,7 +8,7 @@
    ## Навыки
    - HTML, CSS
    - JavaScript (базовый уровень)
-   - Git (изучаю все еще)
+   - Git (изучаю)
 
    ## Контакты
    - Email: arkanov.senya@gmail.com
